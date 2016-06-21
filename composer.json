@@ -1,0 +1,11 @@
+{
+	"name": "test",
+	"description": "test",
+	"type": "library",
+	"keyword": "test",
+	"autoload": {
+		"psr-4":{
+			"Test\\": "src/Test"
+		}
+	}
+}
